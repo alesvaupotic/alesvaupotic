@@ -4,4 +4,4 @@ Since 1986, I have helped my clients - entities in the public and private sector
 
 I run Reepolee, an out-of-the-box agency. Check us out at https://www.reepolee.com. 
 
-And if you're ever near Ljubljana, Slovenija, ping me. I'd love to chat  about software with you in person over a pint or a cup of coffee.
+And if you're ever in Slovenija, ping me. I'd love to chat  about software with you in person over a pint or a cup of coffee.
